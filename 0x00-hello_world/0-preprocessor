@@ -1,0 +1,1 @@
+#!/bin/bash\mgcc -E $CFILE -o c
